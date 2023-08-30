@@ -3,7 +3,11 @@
 make sure you install 
 
 python
+
 pandas
+
 plotly
+
 numpy
+
 streamlit
