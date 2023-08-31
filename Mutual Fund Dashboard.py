@@ -6,12 +6,12 @@ import openai
 import time
 
 # Initialize OpenAI API
-openai.api_key = 'Your_Api'  # Replace with your OpenAI API key
+openai.api_key = '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'  # Replace with your OpenAI API key
 
 # Set the title and introduction
 st.set_page_config(page_title="📈 Mutual Fund Data Analysis", page_icon=":bar_chart:")
 st.title("📊 Mutual Fund Data Analysis")
-st.write("Upload 5 CSV files and find their highest means based on Adj Close prices!")
+st.write("Upload 5 CSV files and do Analysis on them")
 
 # Upload CSV files
 uploaded_files = st.file_uploader("Choose 5 CSV files", type=["csv"], accept_multiple_files=True)
@@ -79,7 +79,7 @@ if uploaded_files:
     st.sidebar.markdown(f"**Arithmetic Mean:** {am_values[max_gm_index]:.2f}")
 
     highest_price = dfs[max_gm_index]['Adj Close'].max()
-    st.sidebar.markdown(f"**Adj Close Price:** ${highest_price:.2f}")
+    st.sidebar.markdown(f"**Adj Close Price:** {highest_price:.2f}")
 
     # Create buttons to display means for all companies
     display_geometric = st.sidebar.button("📈 Display Geometric Means")
