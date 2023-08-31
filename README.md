@@ -32,4 +32,6 @@ Add Api into 'Your_Api'
 
 Go into The Folder And Just Copy Past below Command run it
 
-`streamlit run '.\Mutual Fund Data Analysis.py'`
+```
+streamlit run '.\Mutual Fund Data Analysis.py'
+```
