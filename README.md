@@ -31,5 +31,3 @@ Add Api into 'Your_Api'
 ## Just Run And Enjoy The Magic 🔮🪄
 
 Go into The Folder And Just Copy Past below Command run it
-
-`streamlit run '.\Mutual Fund Dashboard.py'`
