@@ -24,15 +24,12 @@ login into website create new secret
 
 ### Add Api into code
 
-
 ![1693492745401](image/README/1693492745401.png)
-
 
 Add Api into 'Your_Api'
 
-
 ## Just Run And Enjoy The Magic 🔮🪄
 
-Go into The Folder And Just Copy Past below Command
+Go into The Folder And Just Copy Past below Command run it
 
 `streamlit run '.\Mutual Fund Dashboard.py'`
