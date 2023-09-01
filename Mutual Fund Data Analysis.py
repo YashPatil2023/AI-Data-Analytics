@@ -6,7 +6,7 @@ import openai
 import time
 
 # Initialize OpenAI API
-openai.api_key = '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'  # Replace with your OpenAI API key
+openai.api_key = 'Your_Api'  # Replace with your OpenAI API key
 
 # Set the title and introduction
 st.set_page_config(page_title="📈 Mutual Fund Data Analysis", page_icon=":bar_chart:")
