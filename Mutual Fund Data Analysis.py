@@ -63,7 +63,7 @@ if uploaded_files:
         response = openai.Completion.create(
             engine="text-davinci-003",
             prompt=combined_prompt,
-            max_tokens=100
+            max_tokens=500
         )
         
         # Display OpenAI response
