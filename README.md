@@ -1,13 +1,17 @@
 
 # Mutual_Fund_Data 📊💰
 
+
+https://github.com/j-a-y-e-s-h/ai-data-analytics/assets/75063311/fd07aba2-a9f9-470e-8653-de696542146b
+
+
 ## Download File
 
 Clone the repository to get started:
 
 ```bash
 git clone https://github.com/j-a-y-e-s-h/ai-data-analytics
-cd mutual-fund-data
+cd ai-data-analytics
 ```
 
 ## Installation 🛠️
@@ -28,9 +32,12 @@ pip install openai
 2. Create a new API key by following the instructions.
 
    ![OpenAI API Website](image/README/1693492479716.png)
-3. Copy the API key and add it to the code where it says `'Your_Api'`.
+   ![1693492479716](https://github.com/j-a-y-e-s-h/ai-data-analytics/assets/75063311/38837744-e707-405e-aaed-8e0c64ca6a23)
+
+4. Copy the API key and add it to the code where it says `'Your_Api'`.
 
    ![Add API Key](image/README/1693492745401.png)
+   ![1693492745401](https://github.com/j-a-y-e-s-h/ai-data-analytics/assets/75063311/e29c8d4e-71c6-4e10-8de1-72a1bf973103)
 
 ## Run the App 🚀
 
