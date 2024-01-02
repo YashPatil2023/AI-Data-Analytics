@@ -1,9 +1,15 @@
 
-# Mutual_Fund_Data 📊💰
+# Mutual Fund Data Analysis using AI 📈🤖💰
 
 
 https://github.com/j-a-y-e-s-h/ai-data-analytics/assets/75063311/fd07aba2-a9f9-470e-8653-de696542146b
 
+## Features
+
+- AI-driven trend analysis
+- Geometric and arithmetic mean calculations
+- Visualizations of mean distribution and average returns
+- OpenAI integration for user prompts and analysis
 
 ## Download File
 
