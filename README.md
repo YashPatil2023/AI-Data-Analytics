@@ -37,12 +37,10 @@ pip install openai
 1. Log in to the [OpenAI API Website](https://platform.openai.com/account/api-keys).
 2. Create a new API key by following the instructions.
 
-   ![OpenAI API Website](image/README/1693492479716.png)
    ![1693492479716](https://github.com/j-a-y-e-s-h/ai-data-analytics/assets/75063311/38837744-e707-405e-aaed-8e0c64ca6a23)
 
-4. Copy the API key and add it to the code where it says `'Your_Api'`.
+3. Copy the API key and add it to the code where it says `'Your_Api'`.
 
-   ![Add API Key](image/README/1693492745401.png)
    ![1693492745401](https://github.com/j-a-y-e-s-h/ai-data-analytics/assets/75063311/e29c8d4e-71c6-4e10-8de1-72a1bf973103)
 
 ## Run the App 🚀
